@@ -322,7 +322,7 @@ Url: http://127.0.0.1:8000/api/v1/filmes/{id}/diretores/{idDiretor}
 6. Execute o comando: `php artisan key:generate`
 7. Com o seu ambiente de desenvolvimento rodando, crie uma nova base de dados com o nome: `api_filme`
 8. Após toda a configuração necessária, execute o comando: `php artisan serve`
-9. O projeto deve estar disponível no endereco: [localhost:8000](http://localhost:8000/) 
+9. O projeto deve estar disponível no endereco: [localhost:8000/api/v1/](http://localhost:8000/api/v1/) 
 
 ## Observações importantes
 - É aconselhável que você tenha em sua máquia o [postman](https://www.postman.com/) para que possa fazer os devidos testes sobre as rotas disponíveis nesta API.
